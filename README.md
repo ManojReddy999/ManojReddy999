@@ -18,7 +18,7 @@ Based in India. Open to robotics, perception and applied-AI roles, remote prefer
 - **[Visual-Inertial SLAM](https://github.com/ManojReddy999/Visual-Inertial-SLAM)** — IMU and stereo fusion via EKF for pose estimation and landmark mapping.
 - **[LiDAR SLAM](https://github.com/ManojReddy999/LiDAR-SLAM)** — scan matching, occupancy grids, texture mapping and pose-graph optimisation.
 - **[Motion Planning](https://github.com/ManojReddy999/Motion-Planning)** — search-based and sampling-based planners (A\*, RRT, bidirectional RRT) in 3-D environments.
-- **[Mobile Manipulator Control](https://github.com/ManojReddy999/Motion-Control-of-Mobile-Manipulator-Robot)** — full pick-and-place control stack for a KUBA YouBot: kinematics, trajectory generation and feedback control, simulated in CoppeliaSim.
+- **[Mobile Manipulator Control](https://github.com/ManojReddy999/Motion-Control-of-Mobile-Manipulator-Robot)** — full pick-and-place control stack for a KUKA YouBot: kinematics, trajectory generation and feedback control, simulated in CoppeliaSim.
 
 ### Vision and control
 
